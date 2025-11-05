@@ -217,6 +217,7 @@ section.main-section h1 {
     text-align: center;
     font-size: 30px;
     color: var(--primary-color);
+    
 }
 
 .message-us-section .contact-form-container {
@@ -225,6 +226,7 @@ section.main-section h1 {
     justify-content: center;
     margin-top: 20px;
     gap: 50px;
+
 }
 
 .message-us-section .contact-form-container .map {
